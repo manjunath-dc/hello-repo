@@ -1,4 +1,4 @@
-# hello-repo
+# git-repo
 Git repository assignment
 
 assignment repository on Github 
